@@ -1,9 +1,9 @@
 #ifndef HOSTEL_MANAGER_H
 #define HOSTEL_MANAGER_H
 
-#include "PG.h"
-#include "College_Hostel.h"
-#include "Apartment.h"
+#include "./Hostel_Types/PG.h"
+#include "./Hostel_Types/College_Hostel.h"
+#include "./Hostel_Types/Apartment.h"
 
 class HostelManager
 {
